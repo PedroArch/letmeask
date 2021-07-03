@@ -1,6 +1,9 @@
 # Letmeask
 > App created in NLW#6-Together
+>
 > Create rooms to manage questions
+
+![nlw Banner](/nlwbanner.png)
 
 ## Techs
 
