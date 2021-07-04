@@ -12,6 +12,12 @@
 * Firebase
 
 
+## React libs
+* react-router-dom
+* sass
+* firebase
+
+
 ## How to Use
 ### `yarn start`
 
