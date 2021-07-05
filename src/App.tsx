@@ -9,12 +9,12 @@ import './styles/global.scss';
 function App() {
   return (
     <BrowserRouter>
-      <Switch>
         <AuthContextProvider>
-          <Route path='/' exact component={Home} />
-          <Route path='/rooms/new' exact component={NewRoom} />
+          <Switch>
+            <Route path='/' exact component={Home} />
+            <Route path='/rooms/new' exact component={NewRoom} />
+          </Switch>
         </AuthContextProvider>
-      </Switch>
     </BrowserRouter>
   );
 }
